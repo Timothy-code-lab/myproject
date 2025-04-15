@@ -1,0 +1,102 @@
+/*------------------------------first class------------------------------*/
+
+h1 {font-weight: bold;
+    font-family: ;}
+
+.first-class {background-color: white;
+height: 570px;
+}
+
+.laptop-phone {position: relative;
+    left:60em;
+    height: 150px;
+    width: 200px;
+    }
+
+h1 { text-align: center;
+    font-size: 4em;
+    font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;}
+
+
+
+.developer {font-size: 3em;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: italic;}
+
+.creative {color: orangered;}
+
+.laptop-cup {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    left: 50px;   
+}
+
+
+/*................................... second class..........................*/
+
+.second-class {background-color: orangered;
+width: auto;
+height: 600px;
+padding-top: 70px;
+text-align: center;}
+
+.profile {height: 200px;
+width: 200px;
+border-radius: 50%;
+position: relative;
+
+}
+
+.commitment {width: 40%;
+    margin: auto;
+text-align: justify;
+padding-top: 50px;
+color: white;
+font-family: "Lato", sans-serif;
+font-weight: 600;
+font-style: italic;
+}
+
+
+/*-----------------------------------vision-----------------------------*/
+
+.vision {background-color: white;
+padding-top: 50px;
+width: auto;
+height: 600px;}
+
+.nail {height: 100px;
+width: 100px;
+position: relative;
+left: 550px;}
+
+ 
+p {width: 35%;
+margin: auto;
+color: orangered;
+font-size: 1.5em;
+padding-top: 30px;
+font-family: "Lato", sans-serif;
+font-weight: 600;
+font-style: italic;}
+
+.second-nail {height: 100px;
+width: 100px;
+position: relative;
+left: 550px}
+
+
+/*---------------------------------footer-----------------------------------*/
+
+.footer {
+    background-color: #333;
+    padding: 40px;
+    justify-content: space-between;
+    color: aqua;
+}
+
